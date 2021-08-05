@@ -1,5 +1,5 @@
 -  I’m interested in Java.
--  I’m open to collaborate on open source projects.
+-  I’m available to collaborate on open source projects.
 
 <!---
 Vardantex/Vardantex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
